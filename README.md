@@ -1,6 +1,8 @@
-# Hi there!👋🏼
+# Hi I'm Alex!👋🏼
 
-## I'm a Frontend and Blockchain Developer
+[![Header](https://github.com/kumancev/kumancev/blob/main/back.jpg)](https://github.com/kumancev/)
+
+## Frontend and Blockchain Developer👨🏼‍💻
 
 ### Languages and Tools
 
