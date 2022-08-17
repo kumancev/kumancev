@@ -1,4 +1,4 @@
-# Hi I'm Alex!👋🏼
+# Hi, I'm Alex!👋🏼
 
 [![Header](https://github.com/kumancev/kumancev/blob/main/back.jpg)](https://github.com/kumancev/)
 
