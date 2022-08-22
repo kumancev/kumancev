@@ -21,8 +21,8 @@
 
 ### Follow Me
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kumancev1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr-kumancev)
+[![Medium](https://img.shields.io/badge/Medium-090909?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kumancev1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr-kumancev)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=ffc0cb)](https://t.me/cimus)
 
 ### Stats
