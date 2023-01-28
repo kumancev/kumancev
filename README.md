@@ -2,7 +2,7 @@
 
 
 
-## Frontend and Web3 Developer👨🏼‍💻
+## Full-stack and Web3 Developer👨🏼‍💻
 
 ### Languages and Tools
 
@@ -12,9 +12,12 @@
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux)
 ![Solidity](https://img.shields.io/badge/-solidity-090909?style=for-the-badge&logo=solidity)
 ![NodeJS](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js)
+![Jest](https://img.shields.io/badge/Jest-090909?style=for-the-badge&logo=Jest&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai.js-090909?style=for-the-badge&logo=chai&logoColor=red)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![Sequelize](https://img.shields.io/badge/Sequelize-090909?style=for-the-badge&logo=Sequelize)
 ![MongoDB](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql)
 ![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-090909?style=for-the-badge&logo=tailwind-css)
@@ -25,7 +28,7 @@
 
 [![Medium](https://img.shields.io/badge/Medium-090909?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kumancev1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumancev)
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=ffc0cb)](https://t.me/cimus)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cimus)
 
 ### Stats
 
