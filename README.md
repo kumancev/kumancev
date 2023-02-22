@@ -2,7 +2,7 @@
 
 
 
-## Full-stack and Web3 Developer👨🏼‍💻
+## Web Developer👨🏼‍💻
 
 ### Languages and Tools
 
